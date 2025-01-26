@@ -1,0 +1,25 @@
+{
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "terminal.integrated.fontSize": 25,
+    "code-runner.runInTerminal": true,
+    "editor.fontSize": 17,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "workbench.colorTheme": "Dark Magic Frankenstein",
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "workbench.iconTheme": "material-icon-theme"
+}
